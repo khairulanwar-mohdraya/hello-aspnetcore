@@ -2,7 +2,7 @@
 
 This is a sample Asp.Net Core 3.0 Web API project
 
-Wired to Azure Pipeline with Docker
+Wired to Azure DevOps Pipeline with Docker
 - Build and push image to Azure Container Registry
 - Deploy to Azure Kubernetes Service
 
