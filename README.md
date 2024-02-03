@@ -1,6 +1,5 @@
 # Asp.Net Core 3.0 Web API project
 
-Wired to Azure Pipeline with Docker
 This is a sample Asp.Net Core 3.0 Web API project
 
 Wired to Azure Pipeline with Docker
